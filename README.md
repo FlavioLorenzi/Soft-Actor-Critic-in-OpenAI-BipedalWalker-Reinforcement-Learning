@@ -9,3 +9,9 @@ the code is taken from https://spinningup.openai.com/en/latest/ and rivisited.
 
 
 --> apply soft actor critic to Bipedal Walker to learn it to walk without falling anymore.
+
+
+
+# Approach and documentation
+
+See the report.pdf
