@@ -1,4 +1,4 @@
-# Reinforcement Learning approach
+# Reinforcement Learning
 
 AIRO project of Artificial Intelligence 2
 
