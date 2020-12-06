@@ -1,3 +1,8 @@
+# Reinforcement Learning approach
+
+AIRO project of Artificial Intelligence 2
+
+<a href="https://www.dis.uniroma1.it/"><img src="http://www.dis.uniroma1.it/sites/default/files/marchio%20logo%20eng%20jpg.jpg" width="500"></a>
 Implementation of Soft Actor Critic in OpenAI-Gym BipedalWalker-v0 environment.
 
 First experience with Neural Networks & Reinforcement Learning,
