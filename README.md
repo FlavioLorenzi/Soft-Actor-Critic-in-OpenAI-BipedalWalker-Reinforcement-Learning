@@ -22,4 +22,7 @@ First experience with Neural Networks & Reinforcement Learning, the code is take
 
 # Approach and documentation
 
-See the [report](reportAI2B.pdf)
+See the [report](reportAI2B.pdf) where also results are showed: with this type of system I cannot achieve very good results in terms of final score, but only a week learning; with more time available it was certainly possible to achieve a good performance for the agent.
+
+
+NB: this was my first approach with RL techniques, so obviously it's not a perfect job, but it's still valid. 
