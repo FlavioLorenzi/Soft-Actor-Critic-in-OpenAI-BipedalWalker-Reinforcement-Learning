@@ -2,6 +2,8 @@
 
 AIRO project of Artificial Intelligence 2
 
+![](https://miro.medium.com/max/2000/0*WC4l7u90TsKs_eXj.png)
+
 <a href="https://www.dis.uniroma1.it/"><img src="http://www.dis.uniroma1.it/sites/default/files/marchio%20logo%20eng%20jpg.jpg" width="500"></a>
 
 
