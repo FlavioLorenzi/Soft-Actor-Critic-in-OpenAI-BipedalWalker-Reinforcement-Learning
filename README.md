@@ -22,4 +22,4 @@ First experience with Neural Networks & Reinforcement Learning, the code is take
 
 # Approach and documentation
 
-See the report.pdf
+See the [report](reportAI2B.pdf)
