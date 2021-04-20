@@ -6,7 +6,7 @@ AIRO project of Artificial Intelligence 2: RL implementation
 
 
 
-HOW RL WORKS:
+### HOW Reinforcement Learning WORKS:
 ![](https://miro.medium.com/max/2000/0*WC4l7u90TsKs_eXj.png)
 
 
