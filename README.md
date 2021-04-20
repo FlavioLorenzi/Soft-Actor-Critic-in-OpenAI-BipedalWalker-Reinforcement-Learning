@@ -16,7 +16,7 @@ First experience with Neural Networks & Reinforcement Learning, the code is take
 
 
 FROM:
-<img src="https://miro.medium.com/max/1192/1*dhD6X7Qg--rfv5HbARQlpg.gif" width="500" height="300">
+<img src="https://miro.medium.com/max/1192/1*dhD6X7Qg--rfv5HbARQlpg.gif" width="300" height="300">
 TO:
 ![alt text](https://camo.githubusercontent.com/4e5badd3ce84f9c22f28539d74ec934e23ce3a70/68747470733a2f2f696d6167652e6962622e636f2f6332633946352f657a6769665f636f6d5f726573697a652e676966)
 
